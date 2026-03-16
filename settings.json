@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Black69969.aternos.me",
+    "ip": "Black69969.aternos.me:52514",
     "port": 52514,
     "version": "",
     "try-creative": false
